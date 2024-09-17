@@ -1,1 +1,3 @@
-# HW2Q1_-Quote_CYang
+# Individual Assignment 2
+Chengkai Yang
+Quote of the day
